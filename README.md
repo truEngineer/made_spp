@@ -1,5 +1,5 @@
 # MADE Speech Processing
 
-## hw1
-
-DSP
+- DSP (hw1)
+- ASR
+- TTS
