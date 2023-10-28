@@ -5,5 +5,7 @@
 - Karplus–Strong 🎸
 
 # lab2
-- Signal analysis 👨🏻‍🔬
-- Fourier transform 🌈
+- Fourier transform, spectrum 🌈
+- Short-time Fourier transform (STFT) 🪟
+- Locomotive whistle 🚂
+- Dual-tone multi-frequency (DTMF) ☎️
