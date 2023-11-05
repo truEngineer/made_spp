@@ -11,6 +11,6 @@
 - Dual-tone multi-frequency (DTMF) ☎️
 
 # lab3
-- Impulse/step response
-- Frequency/phase response
-- FIR/IIR filter
+- FIR/IIR filter 🚿
+- Impulse/step response 🖲️
+- Frequency/phase response 🕹️
