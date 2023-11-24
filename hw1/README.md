@@ -18,4 +18,4 @@
 # lab4
 - Mel-frequency cepstral coefficients (MFCCs) 🏦
 - Voice Activity Detector (VAD) 🗣️
-- Word classifier 🎙️
+- Word classifier (sklearn) 🎙️
